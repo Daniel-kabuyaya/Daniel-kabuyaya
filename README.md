@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné basé en RD
 
 - Langages: C#, SQL, HTML/CSS
 - Technologies: WinForms, 
-- Bases de données** : MySQL
+- Bases de données: MySQL
 
 
 🎮 Passionné par…
